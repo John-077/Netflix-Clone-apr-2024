@@ -1,0 +1,43 @@
+ .header_outer_container {
+    position: sticky;
+    display: flex;
+    justify-content: center;
+    top: 0;
+   /* align-items:center ; */
+   background-color: rgb(20, 15, 158);
+   background-color: transparent;
+   /* height: 10vh; */
+   color: white;
+   transition: all 0.5s;
+   transition-timing-function: ease-in;
+   background-color: rgb(10, 9, 9);
+   z-index: 1;
+}
+
+.header_container {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* background-color: yellow; */
+}
+
+.header_left ul{
+    width: 140%;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    /* background-color: lightgreen; */
+} 
+
+.header_right ul{
+    width: 150%;
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+  cursor: pointer;
+      /* background-color: rgb(9, 137, 9); */
+
+}
