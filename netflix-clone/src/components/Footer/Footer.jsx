@@ -46,9 +46,7 @@ function Footer() {
         <div className="service_code">
           <p>Servie Code</p>
         </div>
-        <div className="Copy-Write">
-          &copy; 1997-2024 Netflix, Inc.
-        </div>
+        <div className="Copy-Write">&copy; 1997-2024 Netflix, Inc.</div>
         <h1 className="built">Built By: Yohanis Bedada</h1>
       </div>
     </div>
