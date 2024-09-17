@@ -49,6 +49,7 @@ function Footer() {
         <div className="Copy-Write">
           &copy; 1997-2024 Netflix, Inc.
         </div>
+        <h1 className="built">Built By: Yohanis Bedada</h1>
       </div>
     </div>
   );
